@@ -1,8 +1,8 @@
-cleartext !
-cleartext
 music ~
-music music/BG_1.ogg
-bgload BGG_01.png
+music music/BGM_1.ogg
+bgload BGG_01.
+text ~
+cleartext
 text I wanted to draw a bunny. I got some red crayons. Then I drew on the halls and I made the bunnies say things like 
 
 text How are you?
