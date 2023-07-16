@@ -135,5 +135,7 @@ choice I pricked him with the needle. | I told Mommy about the red.
 
 if selected == 1
 jump gm_04.scr
+fi
 if selected == 2
 jump gm_05.scr
+fi

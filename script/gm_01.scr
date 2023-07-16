@@ -1,3 +1,5 @@
+cleartext !
+cleartext
 music ~
 music music/BG_1.ogg
 bgload BGG_01.png
@@ -134,5 +136,7 @@ choice I said I didn’t know. | I got scared and told her it wasn’t me, it wa
 
 if selected == 1
 jump gm_02.scr
+fi
 if selected == 2
 jump gm_03.scr
+fi
