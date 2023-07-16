@@ -1,0 +1,26 @@
+bgload BGBONUS.png
+music music/BGM_1.ogg
+text !
+choice About the Painted Walls' Game | Gueve's Notebook | Childhood Scribbles | Gueve Notebook 2 | Momma Bunny | Return
+
+if selected == 1
+jump bn_01.scr
+fi
+if selected == 2
+jump bn_02.scr
+fi
+if selected == 3
+jump bn_03.scr
+fi
+if selected == 4
+jump bn_04.scr
+fi
+if selected == 5
+jump bn_05.scr
+fi
+
+if selected == 6
+music ~
+jump main.scr
+fi
+

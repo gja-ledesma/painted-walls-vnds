@@ -1,0 +1,5 @@
+music ~
+music music/BG_1.ogg
+bgload PREMAIN.png 60
+
+jump bonus.scr

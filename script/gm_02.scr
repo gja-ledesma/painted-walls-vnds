@@ -1,0 +1,139 @@
+music ~
+music music/BG_1.ogg
+bgload DARK.png
+text But then she asked me where they were and I said I didn’t know and then but I got in trouble.
+
+text She pulled on my arm and made me show her but I said no and that got me into more trouble but I was just doing what was good for the house. And I don’t know why.
+
+text !
+bgload BGG_06.png
+text She said she shouldn’t have to keep covering up my drawings and how I kept messing up the walls even though all I was doing was making them happy. I don’t think she likes my drawings. She thinks they’re ugly.
+
+text She loves andy’s drawings. His are a bunch of scribbles and she loves them. And he uses my crayons and my markers and I have to share them even though I’m not allowed to use them. He doesn’t make anyone happy but Mommy and Daddy and himself.
+
+text I have to take care of the house but Mommy never says thank you and she doesn’t like it and I don’t know why.
+
+text Cause the walls love my drawings
+
+text and they say how pretty your drawings look
+
+text and I say thank you and they say you welcome like that, nice and polite.
+
+text !
+bgload DARK.png
+text See, I have manners.  I’m really good and the only time I get mad is when you take my markers away or when I can’t draw on the walls to make them happy. Then I get mad.
+
+text But I can be very very good.
+
+text The house doesn’t like it when I leave it all alone to go to school.
+
+text It never did.
+
+text But now it tells me that Mommy’s gonna make it change
+
+text it’s gonna have to change its colors and then maybe she’s gonna try to separate us and maybe make us move
+
+text and then it’s gonna have to share with somebody else and the house won’t like that.
+
+text I’m the best friend the house has ever had and don’t we have a good time don’t we,
+
+text we like to color
+
+text and play games
+
+text and talk and talk and talk.
+
+text And why is she talking to the wall? Honey, who are you talking to?
+
+text No one.
+
+text Words were coming out of your mouth.
+
+text I know that. I was just talking to myself.
+
+text I say and walk away so they won’t know our secret.
+
+text !
+bgload BGG_04.png
+text Mommy keeps erasing my pretty pictures. She keeps getting more paint and putting it over them and she won’t let me keep them.
+
+text She got mad at me today and she said if I don’t stop it she’ll take all my markers away and but especially the red ones. So I have to be good.
+
+text !
+bgload BGG_07.png
+text But she doesn’t understand that that’s not good.
+
+text The vents cry at night but she’s too tired to hear them and grownups I don’t think they notice a lot of things.
+
+text But I do.
+
+text And can hear the vents crying so sad.
+
+text Don’t leave us alone.
+
+text I keep trying to tell them I’m not, I’m still here but sometimes I think the only way they’ll know that is if I draw on them. Sometimes I pat their metal backs and I just rub their belly saying it’s ok, it’s ok, quiet so no one else will hear. They kind of calm down after that but not for very long.
+
+text !
+bgload BGG_08.png
+text Am I allowed to keep the things I like
+
+text I don’t think I’m ever going to sleep.
+
+text Go to sleep.
+
+text Go to sleep.
+
+text Count your sheep. Count your sheep.
+
+text The vents can tell me their nightmares sometimes and that can be scary
+
+text so I just cover them with some pretty red post it notes in a line
+
+text as many as I could to cover them up and that sometimes can hush them up.
+
+text That sends them right to sleep and then I can sleep but other times they blow the notes right off and I have to pick them up again.
+
+text And every once in a while I get a little thank you and then I say you’re welcome I hope you’ve had a good sleep.
+
+text !
+bgload BGG_09.png
+text One day andy got a scratch and the red came out.
+
+text Just a couple drops.
+
+text I got caught staring at it but Mommy just said that happens to everyone.
+
+text And that got me thinking his whole body is filled with it.
+
+text There’s swishy red inside him.
+
+text Lots and lots of red.
+
+text !
+bgload BGG_10.png
+text andy’s eating breakfast. And he’s full of red.
+
+text Little cheerios floating in skim milk swooshed back and forth, back and forth.
+
+text He always gets the red cup and I always get the blue one. 
+
+text His red truck and my blue crayons.
+
+text Mommy’s putting his shoes on. Tiny circles to string the white shoelace through bright red shoes.
+
+text He’s so cute with the fire engine isn’t he?
+
+text I dunno.
+
+text But I wonder if there’s a fire inside his chest and the temperature is rising and sirens are screaming and all the time it’s swishy inside him.
+
+text !
+bgload DARK.png
+text One time I tried to prick him with a needle just a little bit out, just to see.
+
+choice I pricked him with the needle. | I told Mommy about the red.
+
+if selected == 1
+jump gm_04.scr
+if selected == 2
+jump gm_05.scr

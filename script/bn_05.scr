@@ -1,0 +1,20 @@
+music ~
+music music/BG_1.ogg
+bgload MB1.png
+text Momma Bunny.
+
+text Moonlights mother was looking for her bababy
+
+bgload MB2.png
+
+text but to late someone stole her and gave it to me for my birthday
+
+bgload MB3.png
+
+text my momy was glad my frend had it.
+
+bgload MB4.png
+
+text i was her mother but her real was somewhere else
+
+jump bonus.scr

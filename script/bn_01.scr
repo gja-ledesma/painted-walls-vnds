@@ -1,0 +1,25 @@
+music ~
+music music/BG_1.ogg
+bgload BGBONUS.png
+text an Amphoterik Project (http://amphoterik.weebly.com/)
+
+text Story & Bonus Content by Gueve Elliot
+
+text Art, Coding, and Music by Lin West
+
+text Special thanks to Stephen Moss, David Carroll, and Kara Trojan for their support, and to Aleema for helping with coding.
+
+text Author's Notes:
+
+text This story started right about when I was in seventh grade. 
+text I was watching a "Mr. Clean" ad, presented in the style of a horror movie.
+text It had big caps lock letters saying: IT CAME OFF THE WALLS.
+
+text The first version I wrote wasn't well written (it was more of a synopsis), but it had the gist of the red ending.
+
+text Then last year, the story became resurrected because I was flat out of ideas for my class Intro to Fiction.
+
+text I finally put the piece into story format, focusing heavily on voice. 
+text It was originally just the red ending, but with Lin's encouragement we both decided to make it a collaborative project out of it.
+
+jump bonus.scr

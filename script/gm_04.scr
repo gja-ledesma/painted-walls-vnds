@@ -1,0 +1,102 @@
+music ~
+music music/BG_1.ogg
+bgload DARK.png
+text I went into the sewing basket and I got it out. A red drop squirting slow out of his finger. I wanted to touch it but I was afraid to pop the bubble.
+
+text !
+bgload --.png
+text Annie what’s going on? What’s happened to andy! She shouted loud.
+
+text Oh he just hurt himself by accident.
+
+text By accident? Where did you get that needle?
+
+text I dunno I just walked in and it was there and andy hurt himself.
+
+text Well it had to come from somewhere!
+
+text You should watch out for your little brother. Don’t play with those, they’re dangerous. I don’t want you playing with him by yourself anymore! And she took him away. Then she came back to me and I got in big trouble.
+
+text ~
+bgload DARK.png
+
+text I had to stay in my room again by myself while she took care of my brother. But I wouldn’t tell her. I would never tell her about the red.
+
+text Cause then she might empty him out and fill him up with white instead.
+
+text Mommy never lets there be too much red in the house at once.
+
+text She says why don’t I like some other color like pink or purple instead
+
+text and then to Dad she says why I'm not like all the other girls in class who want to play princess and tea and dress up
+
+text but I just color on the walls and I don’t do anything else but talk to myself.
+
+text And that’s not true.
+
+text Well yea but no.
+
+text ‘Cause she doesn’t see how I can have fun inside the walls. And then I can do all those things and play red riding hood and I can go wherever I want.
+
+text And I can do whatever I want.
+
+text It has to stay that way. Yea it has to stay that way and then I can play forever and ever and the walls won’t be sad. I like it when the red paint comes out.
+
+text It’s so pretty and bright I like it better than the white. All I ever wanted was a red room. andy won’t mind.
+
+text Will you andy?
+
+text See, he says no.
+
+text !
+bgload --.png
+
+text Well I found a pretty knife in the kitchen look how shiny it is? It was hard to get, but I did it.
+
+text I pushed up a stool to the counter I reached and grabbed it.
+
+text Don’t touch it andy! Not yet I have to take good care of you like Mommy said and you’re just going to have to be patient. Real patient. Just wait until the walls say it’s ok.
+
+text Is it ok?
+
+text Is it ok?
+
+text andy his eyes got really big and he just stared sad at the walls like he could tell they were upset. And patted his hand on it. I thought maybe he wanted to join in.
+
+text So what I did I got the knife and then I cut into him a little bit at a time and but he started to cry.
+
+text STOP CRYING!
+
+text Don’t you want to join in, don’t you?{w} Don’t you want to make the walls happy?
+
+text Well if you don’t you only think about yourself.
+
+text You were lucky enough to be full of red paint.
+
+text It’s you the walls want and if I do this they will always be happy
+
+text so I have to shut you up andy.
+
+text Shut UP
+
+text Shut up
+
+text SHUT UP!
+
+text I felt it rip I could hear it and then the paint came out of his neck.
+
+text ~
+bgload --.png
+text I cooed and
+
+text I put andy’s head in my lap so I could dip into his neck and spread it across the walls.
+
+text like finger painting.
+
+text It feels squishy in my hands but it makes everything pretty. It makes the walls happy and I think it makes andy happy too.
+
+text ........................................................................
+
+text The walls are red.
+
+jump main.scr

@@ -1,0 +1,20 @@
+sound ~
+music ~
+
+music music/BGM_1.ogg
+label start
+setvar ~ ~
+cleartext !
+cleartext
+bgload PREMAIN.png 32
+bgload MAIN.png
+text @VNDS Port by neoran
+text @PAINTED WALLS
+text By Amphoterik
+choice Start Game | Bonus
+if selected == 1
+jump gm_01.scr
+fi
+if selected == 2
+jump bonus.scr
+fi

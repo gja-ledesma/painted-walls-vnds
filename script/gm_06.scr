@@ -1,0 +1,58 @@
+music ~
+music music/BG_1.ogg
+bgload --.png
+text I got it from the sewing basket. 
+
+text What were you doing getting the needle from the sewing basket? 
+
+text I was just playing. 
+
+text Well don’t play with those, they’re dangerous. I don’t want you playing with him by yourself anymore! And she took him away.
+
+text Then she came back to me and I got in big trouble. I had to stay in my room again by myself while she took care of my brother. I don’t know if I should tell her. I don’t know if I should tell her about the red. ‘Cause then she might empty him out and fill him up with the white instead.
+
+text !
+bgload --.png
+text The walls won’t talk to me, they won’t Talk to me any more. All because of Mommy. They didn’t like that I told her things. I told on them and they didn’t like it. And now I don’t know what to do because the walls they were my only friends and now I don’t have friends and I’m all alone now.
+
+text !
+bgload --.png
+text The vents are screaming at me, saying how much they hate me. And the walls will never be my friend again
+
+text I can’t draw on them I can’t draw on them I can’t get away I can’t get out of this room and I will never get out.
+
+text The walls are closing in and it’s hot they are not my friends.
+
+text YOU ARE NOT MY FRIENDS
+
+text THEY WON’T LEAVE ME ALONE 
+
+text THEY KEEP SAYING THINGS MAKE IT STOP
+
+text It’s dark out the nightmares I have to make them stop. The shadows on the walls are tall they come out of the vents and into the walls they want to grab me they want to pull me in and hurt me. The hands they choke me my throat hurts. I’m choking they can’t hear me no one can hear me no one can hear.
+
+text I’m scared. My hands are shaky there’s something heavy in it I have to move.
+
+text ~
+bgload --.png
+text SMASH. Smashsmash smash.
+
+text Pieces of the wall are on my dress they fall on top of me I keep going I don’t stop until I’m sure just leave me alone. The poker I drop it.
+
+text ~
+bgload --.png
+text The voices are gone I’m crying.
+
+text What did I do? I killed my best friend I killed them. I can’t how then but why?
+
+text What did I do?
+
+text The walls
+
+text I miss them I want them back and I have to get back inside. I fall into the pieces and crawl on them I try to get back inside.
+
+text ........................................................................
+
+text The walls are white.
+
+jump main.scr

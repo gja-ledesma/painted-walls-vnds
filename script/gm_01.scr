@@ -1,0 +1,138 @@
+music ~
+music music/BG_1.ogg
+bgload BGG_01.png
+text I wanted to draw a bunny. I got some red crayons. Then I drew on the halls and I made the bunnies say things like 
+
+text How are you? 
+
+text I like carrots.
+
+text Mmmm. Carrots.
+
+bgload BGG_02.png
+text I like apples. Apples are good. They’re my favorite. And then but Mommy never keeps them in the house. 
+
+text I don’t know why. 
+
+text I want some apples. Apples now. 
+
+text I banged my spoon on the cereal bowl
+
+text the one with the flowers in the middle.
+
+text She said no and she gave me some crackly cereal. I don’t really like milk but I kind of like cows. 
+
+text I have a book about farms since I was a baby. 
+
+text Baby.
+
+text Babies poo a lot and they always cry and they scream too loud but they’re supposed to be cute and so I think but maybe they’re kind of ugly when they just get born. 
+
+text I’m sure glad andy isn’t a baby anymore. 
+
+text But he still cries. He cries a lot.
+
+bgload DARK.png
+text !
+
+bgload BGG_03.png
+text andy won’t stop crying. He just cries and cries and momma says we have to be careful not to hurt him.
+
+text She won’t let me play with him or nothing. Sometimes I do when she’s not looking.
+
+text I always took good care of him ‘cause he’s my little brother
+
+text but then who’s going to take good care of me?
+
+text The walls take pretty good care of me because they like me and I like them and they’re my friends. We try to make each other happy.
+
+text Honey do you want to play outside but no I don’t want to play outside
+
+text ‘cause all the kids are mean and I don’t like them and but they pick on me a lot.
+
+text Cause remember the last time when you got them to come over and play and then I got upset playing with them so I went inside and closed the door so I could talk to the walls.
+
+text The door must not have been locked so then they came back in and now they think I talk to myself but I don’t because the walls are my friend and they don’t understand the house is my friend the way the house always understands me and it never says mean things to me.
+
+text !
+bgload BGG_04.png
+text I’m supposed to share my room now. ‘Cause he’s growing up and he needs a bigger space. He’s not going to stay in Mommy’s room anymore.
+
+text I like my red room. Why do they have to change it just ‘cause he’s coming in? I don’t care about sharing my space.
+
+text Well no.
+
+text Well yeah I do but not so much as the walls being painted to white.
+
+text The walls were happy and now they won’t be happy anymore. Not now they’re going to be white.
+
+text I don’t think they’re going to like it.
+
+text And I don’t want them to be sad. So I draw on them.
+
+text Even if Mommy and Daddy don’t want me to I get my red markers and scribble them on the walls and everything is ok
+
+text and the vents will stop saying about how sad they are and things will go back to normal.
+
+text My room is all white. Mommy says it’s supposed to be happy and airy and nice and stuff but I don’t like it. It feels too lonely.
+
+text Too empty.
+
+text Me and the house we like to be friends. And I can draw on it and then it will be happy.
+
+text !
+text I screamed at Mommy today for taking them away. She took the red markers away and I didn’t do anything and but she knew I was gonna but I don’t think she did and but she took them away anyways
+
+text WHERE ARE THEY WHERE ARE THEY WHERE ARE THEY!
+
+text Give them back now. I cried too and she locked me in my room and she wouldn’t let me eat my dinner and I think that’s why I never go out it’s because she locks me up in this place and I can never go out.
+
+text I don’t want to go to school no more. I don’t I don’t I don’t.
+
+text Don’t be like that. You know you have to be a good girl and go to school.
+
+text No.
+
+text Why not? Why don’t you want to go to school Annie? Hmm?
+
+text Because.
+
+text Because why?
+
+text Because Because Because Because Because!
+
+text Because? Because? Is it because you want to draw on the walls all day? Hmm? I might have to take those markers away from you if this keeps up. 
+
+text She grabs my backpack and puts it in front of me.
+
+text Now,
+text she says.
+
+text !
+bgload DARK.png 30
+text I don’t know what to do I don’t know what to do what to do.
+
+text The vents won’t stop crying. ‘Cause now the walls are white and I draw on them to make them happy but Mommy she keeps putting more white over my drawings.
+
+text Well the house told me what to do. It said I could take all the paintbrushes and throw them all away. That way Mommy can’t stop me from drawing on the walls.
+
+text !
+bgload BGG_05.png
+text So I went to the garage like the house said and I put them in a straw basket and covered them up with a small blanket.
+
+text And I went to the backyard and started digging up the yard with my blue shovel. I had to make sure no one was coming.
+
+text And then after it was deep enough I took out the brushes and dumped them in the dirt and covered them up nice.
+
+text And then I hid my dirty hands in my pockets and when I was coming back in I washed them good so mommy wouldn’t find out.
+
+bgload DARK.png 30
+text ~
+text But then she asked me where they were.
+
+choice I said I didn’t know. | I got scared and told her it wasn’t me, it was the walls.
+
+if selected == 1
+jump gm_02.scr
+if selected == 2
+jump gm_03.scr
