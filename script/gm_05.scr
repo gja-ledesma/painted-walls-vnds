@@ -1,5 +1,4 @@
-music ~
-music music/BG_1.ogg
+music music/BG_2.ogg
 bgload DARK.png
 
 text I told Mommy about the red.
