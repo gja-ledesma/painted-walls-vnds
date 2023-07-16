@@ -1,6 +1,6 @@
 music ~
 music music/BG_1.ogg
-bgload DARK??.png
+bgload DARK.png
 
 text I told Mommy about the red.
 
@@ -11,11 +11,11 @@ text Mommy says I don’t like how Annie keeps drawing on the walls and Daddy sa
 text I want them to be red again.
 
 text ~
-bgload --.png
+bgload BGG_24.png
 text All my markers are blue now. The red markers are gone. The fire engine is gone. andy’s shoes are white now. And I miss it. I miss the red.
 
 text ~
-bgload --.png
+bgload BGG_23.png
 text I really like the story the one about the girl in the red riding hood. But Mom and Daddy won’t read it to me anymore.
 
 text I don’t know why.
@@ -43,11 +43,11 @@ text The windows are blue.
 text Through the windows everything is blue and the pictures stay the same, but the people change.
 
 text ~
-bgload --.png
+bgload BGG_22.png
 text I wanted to draw a bunny. I got some blue markers. Then I drew on the halls and I made the bunnies say things like How are you?
 
 text ~
-bgload --.png
+bgload BGG_20.png
 text The blue in my hands look like the scribbles on the walls.
 
 text I like that.
@@ -55,7 +55,7 @@ text I like that.
 text The walls are blue and I am blue.
 
 text ~
-bgload --.png
+bgload BGG_21.png
 text Swishy water inside my blue cup. Blue swirly cupcakes with sprinkles on top. Mommy sewing buttons on my blue dress. The little polka dots on my tights. Lots and lots of polka dots. 
 
 text I try to count them but I can’t there’s so many of them. The pattern it moves, floats a boat row row your boat gently down the stream.
@@ -63,7 +63,7 @@ text I try to count them but I can’t there’s so many of them. The pattern it
 text The walls tell me how lucky I am. How lucky I am to have it inside me.
 
 text ~
-bgload --.png
+bgload BGG_08.png
 text I would never tell her about the blue. ‘Cause then she might empty me out and fill up with the white instead. Not after what happened to my last color, she took my last color away. But this one I get to keep. Am I allowed to keep the things I like?
 
 text I don’t think I’m ever going to sleep. Am I allowed to keep the things I like {w}I don’t think I’m ever going to sleep.
@@ -81,7 +81,7 @@ text Don’t be scared.
 text Come join us. We can have lots of fun. Lots and lots of fun. It has to stay that way and then I can play forever and ever and the walls won’t be sad. I like it when the blue comes out I want it to come out, It’s so pretty and I like it better than the white.
 
 text ~
-bgload --.png
+bgload BGG_12.png
 text Well I found a pretty knife in the kitchen look how shiny it is? It was hard to get, but I did it. I pushed up a stool to the counter I reached and grabbed it. I can see myself in it and I can see the walls.
 
 text Don’t touch!
@@ -93,13 +93,13 @@ text Is it ok?
 text Is it ok?
 
 text ~
-bgload --.png
+bgload BGG_20.png
 text The veins are blue and the blood is blue.  I want the blue to come out. Don’t you want to join in? Don’t you want to play with us forever? Yes. Yes yes. 
 
 text So what I did I got the knife and cut in my hands a little bit at a time. But there was no blue.
 
 text ~
-bgload --.png
+bgload BGG_11.png
 text Only red.
 
 text I didn’t like that. Why’s there no blue. Why won’t it come out?
@@ -115,7 +115,7 @@ text Don’t you want to make the walls happy?
 text But how?"
 
 text ~
-bgload --.png
+bgload BGG_19.png
 text You were lucky to be full of blue paint. It’s in your eyes. Your eyes your eyes are blue. That’s it. 
 
 text Use those.

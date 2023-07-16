@@ -1,6 +1,6 @@
 music ~
 music music/BG_1.ogg
-bgload --.png
+bgload BGG_18.png
 text I got it from the sewing basket. 
 
 text What were you doing getting the needle from the sewing basket? 
@@ -12,11 +12,11 @@ text Well don’t play with those, they’re dangerous. I don’t want you playi
 text Then she came back to me and I got in big trouble. I had to stay in my room again by myself while she took care of my brother. I don’t know if I should tell her. I don’t know if I should tell her about the red. ‘Cause then she might empty him out and fill him up with the white instead.
 
 text !
-bgload --.png
+bgload BGG_17.png
 text The walls won’t talk to me, they won’t Talk to me any more. All because of Mommy. They didn’t like that I told her things. I told on them and they didn’t like it. And now I don’t know what to do because the walls they were my only friends and now I don’t have friends and I’m all alone now.
 
 text !
-bgload --.png
+bgload BGG_16.png
 text The vents are screaming at me, saying how much they hate me. And the walls will never be my friend again
 
 text I can’t draw on them I can’t draw on them I can’t get away I can’t get out of this room and I will never get out.
@@ -34,13 +34,13 @@ text It’s dark out the nightmares I have to make them stop. The shadows on the
 text I’m scared. My hands are shaky there’s something heavy in it I have to move.
 
 text ~
-bgload --.png
+bgload BGG_15.png
 text SMASH. Smashsmash smash.
 
 text Pieces of the wall are on my dress they fall on top of me I keep going I don’t stop until I’m sure just leave me alone. The poker I drop it.
 
 text ~
-bgload --.png
+bgload BGG_14.png
 text The voices are gone I’m crying.
 
 text What did I do? I killed my best friend I killed them. I can’t how then but why?

@@ -6,11 +6,11 @@ label start
 setvar ~ ~
 cleartext !
 cleartext
-bgload PREMAIN.png 32
+bgload PREMAIN.png 60
 bgload MAIN.png
-text @VNDS Port by neoran
 text @PAINTED WALLS
-text By Amphoterik
+text @By Amphoterik
+text @A VNDS Port
 choice Start Game | Bonus
 if selected == 1
 jump gm_01.scr
