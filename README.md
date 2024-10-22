@@ -2,15 +2,27 @@
 This repository contains an unofficial port of Painted Walls to be played with VNDS Interpreter. 
 
 Links: 
-- [Official site](http://amphoterik.weebly.com/painted-walls.html)
-- [VNDB](https://vndb.org/v5408)
-- [VNDS GitHub repository](https://github.com/BASLQC/vnds)
+- [Official blog site](http://amphoterik.weebly.com/painted-walls.html)
+- [VNDS Interpreter repository](https://github.com/BASLQC/vnds)
+
+## How to play
+1. Download this repository by clicking ```<> Code``` then ```Download as zip```.
+2. Extract the zip file and place the folder to ```/VNDS/novels```.
+
+## About the novel
+As stated from the official blog site, the visual novel was made using [ren'py](https://www.renpy.org) with the engine's own [licensing terms](https://www.renpy.org/doc/html/license.html).
+
+Other info from the site:
+* Writing & Bonus Content By: Gueve Elliot
+* Illustrations, Coding, & Music By: Lin West
+* Made with Ren'py 6.11.0
+* Release Date: 8/25/10
 
 ## Tasks
-- ✅ Get the VN's source.
+- ✅ Get the VN's source files.
 - ✅ Convert the script to be VNDS-compatible.
-- ❔ Check the script for errors and left out stuff.
-- ❔ Correct fadetime and transition of scenes.
+- ✅ Check the script for errors and left out stuff.
  
-## License
-The license of the visual novel imposed by the author themselves is unknown. However, the visual novel itself was made using [ren'py](https://www.renpy.org) with its [licensing terms](https://www.renpy.org/doc/html/license.html).
+```
+PS: Porting of this game is done for me to practice proper scripting 😄.
+``` 
